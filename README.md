@@ -7,12 +7,7 @@ This project was created with the collaboration of four Java programmers
 for the BPA Software Engineering event (2021)
 
 Compilation/Building directions:
-	
-	Unzip the BPARTY file from google drive
-	bpa-game holds all the files necessary to run the program
-	there is a jar file there to double click, however it is not set up with the database, 
-	so the full experience is accessed through the compiler.
-	
+
 	For Eclipse:
 
 	When all the files are integrated, add the jar files to the classpath, by going to
