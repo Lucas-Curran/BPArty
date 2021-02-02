@@ -1,0 +1,138 @@
+SpriteSheet.png
+size: 342, 26
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Card1
+  rotate: false
+  xy: 1, 1
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+Card2
+  rotate: false
+  xy: 181, 1
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+Card3
+  rotate: false
+  xy: 199, 1
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+Card4
+  rotate: false
+  xy: 217, 1
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+Card5
+  rotate: false
+  xy: 235, 1
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+Card6
+  rotate: false
+  xy: 253, 1
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+Card7
+  rotate: false
+  xy: 271, 1
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+Card8
+  rotate: false
+  xy: 289, 1
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+Card9
+  rotate: false
+  xy: 307, 1
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+Card10
+  rotate: false
+  xy: 19, 1
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+Card11
+  rotate: false
+  xy: 37, 1
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+Card12
+  rotate: false
+  xy: 55, 1
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+Card13
+  rotate: false
+  xy: 73, 1
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+Card14
+  rotate: false
+  xy: 91, 1
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+Card15
+  rotate: false
+  xy: 109, 1
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+Card16
+  rotate: false
+  xy: 127, 1
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+Card17
+  rotate: false
+  xy: 145, 1
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+Card18
+  rotate: false
+  xy: 163, 1
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+CardBack
+  rotate: false
+  xy: 325, 1
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1

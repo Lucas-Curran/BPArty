@@ -1,0 +1,117 @@
+buttonMoreData.png
+size: 420, 489
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ChestSprite
+  rotate: false
+  xy: 0, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ChestSprite2
+  rotate: false
+  xy: 64, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ChestSprite3
+  rotate: false
+  xy: 128, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ChestSprite4
+  rotate: false
+  xy: 192, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ChestSprite5
+  rotate: false
+  xy: 256, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ChestSprite6
+  rotate: false
+  xy: 320, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DiceButton
+  rotate: false
+  xy: 0, 64
+  size: 210, 85
+  orig: 210, 85
+  offset: 0, 0
+  index: -1
+LeftButton
+  rotate: false
+  xy: 210, 64
+  size: 210, 85
+  orig: 210, 85
+  offset: 0, 0
+  index: -1
+LeftButtonLit
+  rotate: false
+  xy: 0, 149
+  size: 210, 85
+  orig: 210, 85
+  offset: 0, 0
+  index: -1
+MenuRectangle
+  rotate: false
+  xy: 210, 149
+  size: 210, 85
+  orig: 210, 85
+  offset: 0, 0
+  index: -1
+PlayButton
+  rotate: false
+  xy: 0, 234
+  size: 210, 85
+  orig: 210, 85
+  offset: 0, 0
+  index: -1
+QuitButton
+  rotate: false
+  xy: 210, 234
+  size: 210, 85
+  orig: 210, 85
+  offset: 0, 0
+  index: -1
+ResumeButton
+  rotate: false
+  xy: 0, 319
+  size: 210, 85
+  orig: 210, 85
+  offset: 0, 0
+  index: -1
+RightButton
+  rotate: false
+  xy: 210, 319
+  size: 210, 85
+  orig: 210, 85
+  offset: 0, 0
+  index: -1
+RightButtonLit
+  rotate: false
+  xy: 0, 404
+  size: 210, 85
+  orig: 210, 85
+  offset: 0, 0
+  index: -1
+SettingButton
+  rotate: false
+  xy: 210, 404
+  size: 210, 85
+  orig: 210, 85
+  offset: 0, 0
+  index: -1
